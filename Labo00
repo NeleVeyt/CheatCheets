@@ -1,0 +1,4 @@
+Vagrant init -> aanmaken vagrant file
+vagrant box add matyunin/Centos7 -> aanmaken van virtuele machine
+vagrant up -> basebox kopiëren en nieuwe vm aanmaken in virtualbox
+vagrant box list -> lijst van alle virtuele machines
