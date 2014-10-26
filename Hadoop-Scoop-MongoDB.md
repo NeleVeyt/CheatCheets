@@ -364,4 +364,4 @@ db.comedy.drop() // remove the collection
 db.dropDatabase() // drop current database
 ```
 
-#many thanks to jurgenvm
+###many thanks to jurgenvm
