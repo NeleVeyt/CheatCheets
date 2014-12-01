@@ -36,12 +36,12 @@
 
 ## Troubleshooting Samba Stappen:
 
-Stap 1: Basis netwerkverbinding testen adhv ping
-Stap 2: DNS testen met ping & de naam
-Stap 3: Controleren of er geen errors aanwezig zijn in de smb.conf adhv testparm smb.conf
-Stap 4: Samba starten/herstarten
-Stap 5: Logfiles checken op errors
-Stap 6: Testen of de poorten die Samba nodig heeft of te werken, open staan. Indien niet , host allow statement toevoegen aan smb.conf
-Stap 7: Controleren of de firewall bepaalde requests & poorten blokkeert
+* Stap 1: Basis netwerkverbinding testen adhv ping
+* Stap 2: DNS testen met ping & de naam
+* Stap 3: Controleren of er geen errors aanwezig zijn in de smb.conf adhv testparm smb.conf
+* Stap 4: Samba starten/herstarten
+* Stap 5: Logfiles checken op errors
+* Stap 6: Testen of de poorten die Samba nodig heeft of te werken, open staan. Indien niet , host allow statement toevoegen aan smb.conf
+* Stap 7: Controleren of de firewall bepaalde requests & poorten blokkeert
 
 
